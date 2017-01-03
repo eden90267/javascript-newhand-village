@@ -6,6 +6,8 @@
 
 1. [Unit 3. HTML 基礎入門](https://github.com/eden90267/javascript-newhand-village/tree/master/unit03)
 2. [Unit 4. HTML標籤基礎](https://github.com/eden90267/javascript-newhand-village/tree/master/unit04)
+3. [Unit 5. HTML實習 (iRich愛記帳)](https://github.com/eden90267/javascript-newhand-village/tree/master/unit05)
+4. [Unit 6. CSS入門概論](https://github.com/eden90267/javascript-newhand-village/tree/master/unit06)
 
 ---
 
