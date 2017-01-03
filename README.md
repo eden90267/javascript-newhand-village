@@ -5,6 +5,7 @@
 章節目錄：
 
 1. [Unit 3. HTML 基礎入門](https://github.com/eden90267/javascript-newhand-village/tree/master/unit03)
+2. [Unit 4. HTML標籤基礎](https://github.com/eden90267/javascript-newhand-village/tree/master/unit04)
 
 ---
 
