@@ -2,6 +2,10 @@
 
 個人學習重點筆記與範例碼實作。
 
+章節目錄：
+
+1. [Unit 3. HTML 基礎入門](https://github.com/eden90267/javascript-newhand-village/tree/master/unit03)
+
 ---
 
 參考連結：
