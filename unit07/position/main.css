@@ -1,0 +1,30 @@
+#container {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: solid black;
+}
+
+#left {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background: red;
+    left: 0;
+}
+
+#right {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background: yellow;
+    right: 0;
+}
+
+#footer {
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    background: blue;
+    bottom: 0;
+}
