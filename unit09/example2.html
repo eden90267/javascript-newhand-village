@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>練習二</title>
+</head>
+<body>
+	<div id="show"></div>
+	<button class="btn">點我點我</button>
+	<script>
+	    // 使用 querySelector 選擇想改變元素 (參考 CSS 選擇器)，賦值給常數
+		const btn = document.querySelector('.btn');
+		const show = document.querySelector('#show');
+
+		// 監聽 click 事件，當發生執行 handle 函數
+		btn.addEventListener('click', handle, false);
+
+		// callback function 將文字插入
+		function handle() {
+			show.innerHTML = '你點到我了';
+		}
+	</script>
+</body>
+</html>
